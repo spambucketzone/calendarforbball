@@ -1,0 +1,32 @@
+name: Build & Commit ICS
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours
+  workflow_dispatch: {}
+  push:
+    paths:
+      - build_calendar.py
+      - config.yaml
+      - requirements.txt
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow push back to the repo
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python build_calendar.py
+      # Commit the generated ICS back to the repo
+      - name: Commit schedule.ics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update schedule.ics"
+          file_pattern: schedule.ics
