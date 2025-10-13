@@ -1,0 +1,46 @@
+name: Build ICS (FCBQ)
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours
+  workflow_dispatch: {}
+  push:
+    paths:
+      - build_calendar.py
+      - config.yaml
+      - requirements.txt
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python build_calendar.py
+      - name: Prepare site
+        run: |
+          mkdir -p public
+          cp schedule.ics public/index.ics
+          cat > public/index.html << 'HTML'
+          <h1>Lima-Horta Barcelona — ICS Feed</h1>
+          <p><a href="index.ics">ICS feed</a> (subscribe in Apple Calendar)</p>
+          HTML
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
