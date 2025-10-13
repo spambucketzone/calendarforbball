@@ -1,0 +1,14 @@
+calendar:
+  name: "Lima-Horta Barcelona — 3a Territorial"
+  timezone: "Europe/Madrid"
+  default_duration_minutes: 120
+  title_template: "{home} vs {away} — {venue}"
+
+source:
+  type: "html"   # handled by the domain-specific parser inside build_calendar.py
+  url: "https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055"
+  headers: {}
+  cookies: {}
+
+filters:
+  include_team: ""   # not needed (page is already for the team). Leave blank.
