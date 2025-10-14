@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Auto Fixtures (FCBQ)//EN
+NAME:Lima-Horta Barcelona — 3a Territorial
+X-WR-CALNAME:Lima-Horta Barcelona — 3a Territorial
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:CE vs INFANT — A
+DTSTART;TZID=Europe/Madrid:20251004T153000
+DTEND;TZID=Europe/Madrid:20251004T173000
+UID:f0c76e9471f3565dc56f590bf6e62c1268603c21@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:A — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20251011T154500
+DTEND;TZID=Europe/Madrid:20251011T174500
+UID:ecf224f3f26d818950699e5356cb6d0c3f8ad513@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.E.GAUDI-FORUS vs SARDENYA — LILA
+DTSTART;TZID=Europe/Madrid:20251019T154500
+DTEND;TZID=Europe/Madrid:20251019T174500
+UID:63fa59522ce1e7251c62178d2dbde7c457c32c14@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:LILA — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20251026T173000
+DTEND;TZID=Europe/Madrid:20251026T193000
+UID:0cba4822076b4b0fd8a8e3430ccf2c50d83d0e65@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20251102T173000
+DTEND;TZID=Europe/Madrid:20251102T193000
+UID:ea5531caba24a660c2e83fa962d2a938221eb97b@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADE vs FUSTER — ENERGIA
+DTSTART;TZID=Europe/Madrid:20251109T120000
+DTEND;TZID=Europe/Madrid:20251109T140000
+UID:ce76e804577b2edd801d489c975719d8abde1897@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:ENERGIA — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20251116T090000
+DTEND;TZID=Europe/Madrid:20251116T110000
+UID:68dd52a518dd87937efed4c33b3869ab021400b3@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CB CALELLA vs LA CANTONADA — 
+DTSTART;TZID=Europe/Madrid:20251123T123000
+DTEND;TZID=Europe/Madrid:20251123T143000
+UID:567817f249787ed31842dfed4768352a622198d1@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARESA vs SHIPYARD — B
+DTSTART;TZID=Europe/Madrid:20251129T190000
+DTEND;TZID=Europe/Madrid:20251129T210000
+UID:9e0fa0d7722168fc980f3a1db2f379ed025a1d5b@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:B — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20251214T104500
+DTEND;TZID=Europe/Madrid:20251214T124500
+UID:c564e759b14be6e20e481ee480e5ecde812ba400@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:NETEGES ESCOBAR - MALGRAT 07
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BASQUET vs CANYELLES — B
+DTSTART;TZID=Europe/Madrid:20251221T191500
+DTEND;TZID=Europe/Madrid:20251221T211500
+UID:d6fead2c8fcdf79779dce89c4b04fd177906dc81@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:B — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260111T104500
+DTEND;TZID=Europe/Madrid:20260111T124500
+UID:d6a72048ff325e005aa8ca3a491df41d8fa41198@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CB vs TURO — C
+DTSTART;TZID=Europe/Madrid:20260117T200000
+DTEND;TZID=Europe/Madrid:20260117T220000
+UID:d239dd509ab3bf102dcaacff2ef82881d211cd95@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:C — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260201T104500
+DTEND;TZID=Europe/Madrid:20260201T124500
+UID:24eaad83efa9947863313cc009eb631b45f27135@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ vs LITUS — B
+DTSTART;TZID=Europe/Madrid:20260207T211500
+DTEND;TZID=Europe/Madrid:20260207T231500
+UID:e93f1ac384514211523fb4daeaf06bb6f11af335@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:B — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260215T104500
+DTEND;TZID=Europe/Madrid:20260215T124500
+UID:e51efdf0cb9c9201911ab3e5f67de9b2bef01f56@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RIO vs LOGISTIC — TARONJA
+DTSTART;TZID=Europe/Madrid:20260301T101500
+DTEND;TZID=Europe/Madrid:20260301T121500
+UID:a59d565925cf15d06c915deec2a45982af314eef@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:TARONJA — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260308T104500
+DTEND;TZID=Europe/Madrid:20260308T124500
+UID:98c9735b8b48d792a6f5d4d8863b94734a6161cc@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260322T104500
+DTEND;TZID=Europe/Madrid:20260322T124500
+UID:648e84e37058f4d7d529be85a8fcfb9ccab430fb@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260412T104500
+DTEND;TZID=Europe/Madrid:20260412T124500
+UID:a7902b2e7f06e21f514228a5c96b44e49d347c59@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NETEGES vs ESCOBAR — 07
+DTSTART;TZID=Europe/Madrid:20260419T104500
+DTEND;TZID=Europe/Madrid:20260419T124500
+UID:3159f763c131936ca20861a1b18c8e510925d957@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:07 — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260426T104500
+DTEND;TZID=Europe/Madrid:20260426T124500
+UID:9424bc8127a83e3494d7259ec548874253622125@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CB vs VILASSAR — B
+DTSTART;TZID=Europe/Madrid:20260509T203000
+DTEND;TZID=Europe/Madrid:20260509T223000
+UID:e127a60bf78be42d0e7587f6a44f87709006c062@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:B — 3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIMA-HORTA vs BARCELONA — 
+DTSTART;TZID=Europe/Madrid:20260517T104500
+DTEND;TZID=Europe/Madrid:20260517T124500
+UID:43f650b25e799f02c3affb3c68f5e4be40bebbbd@auto-fixtures
+DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
+ 76/81055
+LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
+URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
+END:VEVENT
+END:VCALENDAR
