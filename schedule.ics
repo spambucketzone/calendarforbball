@@ -146,9 +146,9 @@ URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DJ vs LITUS — B
-DTSTART;TZID=Europe/Madrid:20260207T211500
-DTEND;TZID=Europe/Madrid:20260207T231500
-UID:e93f1ac384514211523fb4daeaf06bb6f11af335@auto-fixtures
+DTSTART;TZID=Europe/Madrid:20260208T160000
+DTEND;TZID=Europe/Madrid:20260208T180000
+UID:e36a3d081cf0789a359330ac652041386ba75064@auto-fixtures
 DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
  76/81055
 LOCATION:B — 3A. TERRITORIAL SÈNIOR MASCULÍ
