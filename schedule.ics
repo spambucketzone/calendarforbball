@@ -106,9 +106,9 @@ URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BASQUET vs CANYELLES — B
-DTSTART;TZID=Europe/Madrid:20251221T191500
-DTEND;TZID=Europe/Madrid:20251221T211500
-UID:d6fead2c8fcdf79779dce89c4b04fd177906dc81@auto-fixtures
+DTSTART;TZID=Europe/Madrid:20251219T203000
+DTEND;TZID=Europe/Madrid:20251219T223000
+UID:fa5746fe2ecbb45580e6f3095a1bcdad2772ccfc@auto-fixtures
 DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
  76/81055
 LOCATION:B — 3A. TERRITORIAL SÈNIOR MASCULÍ
