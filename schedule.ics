@@ -136,9 +136,9 @@ URL:https://www.basquetcatala.cat/partits/calendari_equip_global/176/81055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIMA-HORTA vs BARCELONA — 
-DTSTART;TZID=Europe/Madrid:20260201T104500
-DTEND;TZID=Europe/Madrid:20260201T124500
-UID:24eaad83efa9947863313cc009eb631b45f27135@auto-fixtures
+DTSTART;TZID=Europe/Madrid:20260201T090000
+DTEND;TZID=Europe/Madrid:20260201T110000
+UID:699cb9f6cdd266008d87411745993738db839b18@auto-fixtures
 DESCRIPTION:https://www.basquetcatala.cat/partits/calendari_equip_global/1
  76/81055
 LOCATION:3A. TERRITORIAL SÈNIOR MASCULÍ
